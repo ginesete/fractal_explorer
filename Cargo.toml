@@ -1,0 +1,4 @@
+[package]
+name = "fractal_explorer"
+version = "0.1.0"
+authors = ["Gines Espada Almansa <gines.espada@gmail.com>"]
