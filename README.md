@@ -8,7 +8,7 @@ It displays a window with a fractal, that can be explored with mouse clicks:
 * Middle button click: center on point
 
 SYSTEM DEPENDENCIES: 
-Linux and Mac: libsdl-dev
-Untested on Windows
+* Linux and Mac: libsdl-dev
+* Untested on Windows
 
 This was used in the Meetup group [Rust Barcelona](http://www.meetup.com/es-ES/Rust-Barcelona/), for an introductory session on the language.
